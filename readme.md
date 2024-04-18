@@ -1,0 +1,1 @@
+Word counter project to count words in your sentences/paragraphs/essays
